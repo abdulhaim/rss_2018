@@ -1,8 +1,7 @@
 # Robotics, Science & Systems -- Team 3 -- Spring 2018
 Programmed small scale yet complex robot on the Robot Operating System on RACECAR platform (with Velodyne LiDAR)
 
-
-![Racecar](assets/images/about/team_photo.jpg=250x250)
+<img src="assets/images/about/team_photo.jpg" width="200" height = "200">
 
 ## Topics 
 
