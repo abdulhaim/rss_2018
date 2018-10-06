@@ -1,5 +1,7 @@
-Robotics, Science & Systems -- Team 3 -- Spring 2018
+# Robotics, Science & Systems -- Team 3 -- Spring 2018
 Programmed small scale yet complex robot on the Robot Operating System (ROS) on RACECAR platform (with Velodyne LiDAR) to perform:
+
+## Topics 
 
 ``Wall Following:`` Drove autonomously 0.5 meters away from a given wall with safety controller
 
