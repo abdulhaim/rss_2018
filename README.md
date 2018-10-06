@@ -1,5 +1,7 @@
 # Robotics, Science & Systems -- Team 3 -- Spring 2018
-Programmed small scale yet complex robot on the Robot Operating System (ROS) on RACECAR platform (with Velodyne LiDAR) to perform:
+Programmed small scale yet complex robot on the Robot Operating System (ROS) on RACECAR platform (with Velodyne LiDAR)
+
+![Racecar](rss_2018/assets/images/about/team_photo.jpg)
 
 ## Topics 
 
