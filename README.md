@@ -16,3 +16,5 @@ Programmed small scale yet complex robot on the Robot Operating System on RACECA
   (modified as RRT*) for path planning and pure pursuit for simultaneous tracking.
 
 ``The Labyrinth``: Navigated a maze of randomly placed obstacles, with no prior knowledge of the environment, and without collisions by generating & updating a map of environment using SLAM, developing a path planning algorithm, and designing a trajectory controller for car to follow a path closely
+
+Website found [here](https://abdulhaim.github.io/rss_2018/)
